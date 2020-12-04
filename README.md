@@ -28,13 +28,23 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What is the DOM?
 
+- The DOM is the entire interface of a page.
+
 2. What is an event?
+
+- An event is when something happens to an element. For example a button when clicked will have an if you want it to do something when a person clicks on the button.
 
 3. What is an event listener?
 
+- An event listener is an event that you would put on an element to listen for the event to happen. Like the example above.
+
 4. Why would we convert a NodeList into an Array?
 
+- TO convert a nodeList to an array you would use forEach.
+
 5. What is a component?
+
+- a component is an element that you can make in a seperate js file to import into html file for shorter, cleaner, and easier code. For example, I can create a js file for each element I am making into a component, and then import it into my html file. This way I can just use { componentName } to get the component from the js file instead of making the entire html file have a 1000 lines of code.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
@@ -84,6 +94,6 @@ After finishing your required elements, you can push your work further. These go
 
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` branch (student's  Repo). **Please don't merge your own pull request**
+- [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` branch (student's Repo). **Please don't merge your own pull request**
 - [ ] Add your team lead as a reviewer on the pull-request
 - [ ] Your team lead will count the project as complete after receiving your pull-request
